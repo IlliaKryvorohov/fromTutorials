@@ -5,3 +5,4 @@ I believe making projects from tutorial will help me to improve my experience. S
 # Projects:
 
 1. [react-todo-list](https://www.youtube.com/watch?v=nUl5QLkVdvU)
+2. [city-tours](https://www.youtube.com/watch?v=HfJjzmSaLuQ)
